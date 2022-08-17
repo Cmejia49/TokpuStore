@@ -38,3 +38,13 @@ web-build/
 # macOS
 .DS_Store
 
+**/wwwroot/uploads
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.jpg
+*.jpg
+*.pfx
+
+
