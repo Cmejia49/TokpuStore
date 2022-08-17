@@ -1,0 +1,34 @@
+
+  .nav-link.inactive {
+
+    border-width: 0px !important;
+
+  }
+  
+ .nav-link.inactive:focus,
+ .nav-link.inactive:hover {
+
+    border-width:0px !important;
+  }
+
+@media (max-width: 755px) {
+    .nav-link{
+        margin:1.5px;
+      color: #222324 !important;
+    }
+
+      .nav-link.inactive {
+        color: rgb(26, 2, 2) !important;
+        border-width: 1px !important;
+        border-color: black !important;
+      }
+      
+     .nav-link.inactive:focus,
+     .nav-link.inactive:hover {
+        color: #ffffff !important; 
+        border-width: 1.5px !important;
+        border-color: black !important;
+        background-color: black;
+      }
+
+}

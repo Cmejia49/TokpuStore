@@ -1,0 +1,31 @@
+.btn{
+    height: 32px !important;
+    padding-top:0px !important;
+    padding-bottom: 2px !important;
+    padding-right: 1px !important;
+    padding-left:  1px !important;
+    text-align: center;
+}
+
+.input{
+    text-align: center !important;
+    line-height: 15px;
+
+    vertical-align: center !important;
+    border-color: black;
+    height: 32px !important;
+}
+
+.inputGroup{
+    padding: 1px !important;
+    width: 120px;
+    text-align: center !important;
+}
+
+
+
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none;
+}

@@ -1,0 +1,67 @@
+.carousel {
+  overflow: visible;
+}
+
+.inner {
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+
+.carousel-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  border: #000;
+  border-width: 1.5px !important;
+  color: #fff;
+}
+
+.indicators {
+  white-space: nowrap;
+  overflow-x: hidden;
+  transition: transform 0.3s;
+}
+.inn{
+  width: 100%;
+  display:inline-flex;
+  overflow-x: visible;
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+.inn > button {
+  margin: 5px;
+}
+
+.inn > button.active {
+  background-color: rgb(255, 255, 255);
+  color: #fff;
+}
+
+
+.outer-box{
+  width: 100%;
+  display:inline-flex ;
+  overflow-x: hidden;
+  justify-content: center;
+
+
+}
+
+.arrow{
+  justify-self: center;
+  align-self: center;
+}
+
+
+
+@media (max-width:756px) {
+    .indicators {
+        visibility: hidden;
+        display: flex;
+        justify-content: center;
+      }
+      
+}
+
+

@@ -1,0 +1,16 @@
+.page-item.active .page-link {
+    z-index: 3;
+    color: rgb(0, 0, 0) !important;
+    background-color: rgb(255, 255, 255) !important;
+    border-color: rgb(0, 0, 0);
+    -webkit-box-shadow: 0px 0px 5px 0px #000000; 
+box-shadow: 0px 0px 5px 0px #000000;
+  }
+
+  .page-item .page-link {
+    z-index: 3;
+    color: #fff !important;
+    background-color: rgb(0, 0, 0) !important;
+    border-color: rgb(0, 0, 0);
+    margin: 10px;
+  }

@@ -1,0 +1,19 @@
+.form-control:focus {
+    border-color: #222324 !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 1px rgba(0, 0, 0, 0.6) !important;
+  }
+
+  .bg-light{
+      background-color: #fff !important;
+  }
+
+  .border-bottom{
+      border-color: rgba(0, 0, 0, 0.13) !important;
+  }
+
+
+  @media (max-width: 620px) {
+    .navbar-brand{
+        display: none !important;
+    }
+  }
