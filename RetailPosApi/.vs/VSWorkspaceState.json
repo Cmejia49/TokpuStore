@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\RetailPosApi",
+    "\\RetailPosApi\\Controllers",
+    "\\RetailPosApi\\Controllers\\V1",
+    "\\RetailPosApi\\Infrastructure\\ServiceInstaller",
+    "\\RetailPosApi\\Service",
+    "\\RetailPosApi\\Service\\AuthService"
+  ],
+  "PreviewInSolutionExplorer": false
+}

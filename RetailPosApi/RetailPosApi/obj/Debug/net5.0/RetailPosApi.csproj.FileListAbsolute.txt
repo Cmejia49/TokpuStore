@@ -1,0 +1,222 @@
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.Development.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.exe
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.deps.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.dev.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\ref\RetailPosApi.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.xml
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Humanizer.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Web.Http.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Exchange.WebServices.Auth.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Exchange.WebServices.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfoInputs.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfo.cs
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.CoreCompileInputs.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\staticwebassets\RetailPosApi.StaticWebAssets.Manifest.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\staticwebassets\RetailPosApi.StaticWebAssets.xml
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\scopedcss\bundle\RetailPosApi.styles.css
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.RazorTargetAssemblyInfo.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\ref\RetailPosApi.dll
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.pdb
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.genruntimeconfig.cache
+D:\WEB Repos\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Seed\generated.json
+D:\WEB Repos\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.AssemblyReference.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfoInputs.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfo.cs
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.CoreCompileInputs.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.Development.json
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.json
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.exe
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.deps.json
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.json
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.dev.json
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.xml
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Humanizer.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\staticwebassets\RetailPosApi.StaticWebAssets.Manifest.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\scopedcss\bundle\RetailPosApi.styles.css
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.RazorTargetAssemblyInfo.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.CopyComplete
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\ref\RetailPosApi.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.pdb
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.genruntimeconfig.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AspNetCoreRateLimit.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.AssemblyReference.cache
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\refint\RetailPosApi.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WEB Repos\RetailStrore\RetailPosApi\retailposapi\bin\Debug\net5.0\https\dev_cert.pfx
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.Development.json
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\appsettings.json
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.exe
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\conf.d\https\dev_cert.pfx
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\dev_cert.pfx
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.xml
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.deps.json
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.json
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.runtimeconfig.dev.json
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\RetailPosApi.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AspNetCoreRateLimit.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Humanizer.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.AssemblyReference.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfoInputs.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.AssemblyInfo.cs
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.CoreCompileInputs.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\scopedcss\bundle\RetailPosApi.styles.css
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\staticwebassets\RetailPosApi.StaticWebAssets.Manifest.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.RazorTargetAssemblyInfo.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.csproj.CopyComplete
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\refint\RetailPosApi.dll
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.pdb
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\RetailPosApi.genruntimeconfig.cache
+D:\WebRepos\RetailStrore\RetailPosApi\RetailPosApi\obj\Debug\net5.0\ref\RetailPosApi.dll

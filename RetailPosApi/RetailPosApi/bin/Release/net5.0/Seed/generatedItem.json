@@ -1,0 +1,4354 @@
+[
+  {
+    "ItemName": "commodo",
+    "Description": "Quis duis duis dolor voluptate sunt ut aute mollit.",
+    "PriceRange": "136-460 ",
+    "VariantList": [
+      {
+        "VarietyName": "duis",
+        "Options": []
+      },
+      {
+        "VarietyName": "fugiat",
+        "Options": [
+          {
+            "optionName": "occaecat"
+          },
+          {
+            "optionName": "culpa"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 250,
+        "Price": 181,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 438,
+        "Price": 329,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 466,
+        "Price": 344,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 378,
+        "Price": 196,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 284,
+        "Price": 38,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 416,
+        "Price": 82,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ipsum",
+    "Description": "Qui veniam mollit magna laborum sit occaecat magna non fugiat.",
+    "PriceRange": "107-299 ",
+    "VariantList": [
+      {
+        "VarietyName": "do",
+        "Options": [
+          {
+            "optionName": "fugiat"
+          },
+          {
+            "optionName": "eu"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 461,
+        "Price": 220,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 175,
+        "Price": 325,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 375,
+        "Price": 322,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 217,
+        "Price": 392,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 191,
+        "Price": 270,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 339,
+        "Price": 405,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 396,
+        "Price": 62,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 243,
+        "Price": 307,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 309,
+        "Price": 483,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ea",
+    "Description": "Exercitation nisi officia dolore irure enim cupidatat mollit officia.",
+    "PriceRange": "141-460 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 365,
+        "Price": 147,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 470,
+        "Price": 196,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 242,
+        "Price": 35,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 279,
+        "Price": 413,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 375,
+        "Price": 294,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 172,
+        "Price": 209,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "veniam",
+    "Description": "Minim pariatur tempor est reprehenderit et id officia adipisicing.",
+    "PriceRange": "149-271 ",
+    "VariantList": [
+      {
+        "VarietyName": "minim",
+        "Options": [
+          {
+            "optionName": "culpa"
+          }
+        ]
+      },
+      {
+        "VarietyName": "velit",
+        "Options": [
+          {
+            "optionName": "minim"
+          },
+          {
+            "optionName": "nostrud"
+          },
+          {
+            "optionName": "ex"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 222,
+        "Price": 306,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 147,
+        "Price": 263,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 41,
+        "Price": 10,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ut",
+    "Description": "Incididunt occaecat amet non ad irure adipisicing.",
+    "PriceRange": "106-312 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 452,
+        "Price": 200,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 182,
+        "Price": 284,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 456,
+        "Price": 444,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 232,
+        "Price": 98,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 89,
+        "Price": 341,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 326,
+        "Price": 376,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 23,
+        "Price": 478,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "excepteur",
+    "Description": "Ex exercitation magna pariatur amet fugiat cupidatat est enim cillum consectetur.",
+    "PriceRange": "144-410 ",
+    "VariantList": [
+      {
+        "VarietyName": "irure",
+        "Options": []
+      },
+      {
+        "VarietyName": "quis",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 339,
+        "Price": 225,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 122,
+        "Price": 423,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "reprehenderit",
+    "Description": "Deserunt adipisicing enim excepteur occaecat duis pariatur adipisicing consectetur dolore Lorem dolore eiusmod ut.",
+    "PriceRange": "135-319 ",
+    "VariantList": [
+      {
+        "VarietyName": "mollit",
+        "Options": []
+      },
+      {
+        "VarietyName": "dolore",
+        "Options": [
+          {
+            "optionName": "irure"
+          },
+          {
+            "optionName": "ipsum"
+          },
+          {
+            "optionName": "sint"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 79,
+        "Price": 258,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 140,
+        "Price": 299,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 467,
+        "Price": 142,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 214,
+        "Price": 34,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "cillum",
+    "Description": "Nulla voluptate ea excepteur sit ipsum Lorem consectetur labore elit dolore officia non ex.",
+    "PriceRange": "128-364 ",
+    "VariantList": [
+      {
+        "VarietyName": "exercitation",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 280,
+        "Price": 60,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 101,
+        "Price": 379,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 312,
+        "Price": 376,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 73,
+        "Price": 255,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 11,
+        "Price": 484,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 443,
+        "Price": 151,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 22,
+        "Price": 301,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 454,
+        "Price": 296,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 54,
+        "Price": 97,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "pariatur",
+    "Description": "Dolore in consectetur nulla non occaecat fugiat laboris aliqua ad dolore enim amet sit ullamco.",
+    "PriceRange": "138-199 ",
+    "VariantList": [
+      {
+        "VarietyName": "ullamco",
+        "Options": [
+          {
+            "optionName": "voluptate"
+          },
+          {
+            "optionName": "in"
+          },
+          {
+            "optionName": "eu"
+          },
+          {
+            "optionName": "sit"
+          }
+        ]
+      },
+      {
+        "VarietyName": "eu",
+        "Options": [
+          {
+            "optionName": "non"
+          },
+          {
+            "optionName": "consequat"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 156,
+        "Price": 324,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 98,
+        "Price": 45,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 260,
+        "Price": 73,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 49,
+        "Price": 207,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 188,
+        "Price": 322,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 246,
+        "Price": 17,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 377,
+        "Price": 305,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 407,
+        "Price": 411,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "pariatur",
+    "Description": "Elit dolor eu aliquip cillum.",
+    "PriceRange": "147-319 ",
+    "VariantList": [
+      {
+        "VarietyName": "irure",
+        "Options": []
+      },
+      {
+        "VarietyName": "nostrud",
+        "Options": [
+          {
+            "optionName": "irure"
+          },
+          {
+            "optionName": "dolor"
+          },
+          {
+            "optionName": "dolor"
+          },
+          {
+            "optionName": "amet"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 275,
+        "Price": 432,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 85,
+        "Price": 193,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 376,
+        "Price": 105,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "aute",
+    "Description": "Mollit commodo Lorem adipisicing eiusmod magna Lorem dolore enim labore elit do pariatur aliqua elit.",
+    "PriceRange": "142-207 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 323,
+        "Price": 65,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 207,
+        "Price": 16,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 81,
+        "Price": 123,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 143,
+        "Price": 255,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 169,
+        "Price": 395,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 20,
+        "Price": 51,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 434,
+        "Price": 291,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "commodo",
+    "Description": "Eu sint cupidatat commodo dolore reprehenderit dolore cillum eiusmod do veniam labore cillum.",
+    "PriceRange": "144-265 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 85,
+        "Price": 99,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 169,
+        "Price": 401,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 161,
+        "Price": 201,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 50,
+        "Price": 468,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 143,
+        "Price": 325,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ex",
+    "Description": "In ad quis Lorem sit ullamco laborum eiusmod officia.",
+    "PriceRange": "132-392 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 266,
+        "Price": 23,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 355,
+        "Price": 316,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 383,
+        "Price": 390,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 241,
+        "Price": 386,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 272,
+        "Price": 417,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 239,
+        "Price": 79,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ut",
+    "Description": "Nisi elit amet anim ut.",
+    "PriceRange": "142-261 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 380,
+        "Price": 66,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 491,
+        "Price": 243,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 276,
+        "Price": 262,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 105,
+        "Price": 115,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 71,
+        "Price": 134,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 386,
+        "Price": 338,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "eu",
+    "Description": "Ea aliquip amet nulla ut ex deserunt laboris deserunt deserunt do.",
+    "PriceRange": "107-467 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 11,
+        "Price": 401,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 92,
+        "Price": 464,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 320,
+        "Price": 343,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 209,
+        "Price": 153,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 63,
+        "Price": 392,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 393,
+        "Price": 275,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 411,
+        "Price": 254,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 352,
+        "Price": 345,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 29,
+        "Price": 234,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ad",
+    "Description": "Aute incididunt aliquip sit laborum est ut commodo occaecat sit veniam ut ea.",
+    "PriceRange": "124-355 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 10,
+        "Price": 316,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 82,
+        "Price": 339,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 176,
+        "Price": 442,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "cupidatat",
+    "Description": "Quis laboris tempor deserunt Lorem.",
+    "PriceRange": "133-230 ",
+    "VariantList": [
+      {
+        "VarietyName": "dolor",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 11,
+        "Price": 394,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 26,
+        "Price": 334,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 89,
+        "Price": 261,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "occaecat",
+    "Description": "Enim deserunt sit nisi incididunt elit occaecat qui.",
+    "PriceRange": "111-227 ",
+    "VariantList": [
+      {
+        "VarietyName": "ipsum",
+        "Options": []
+      },
+      {
+        "VarietyName": "aliquip",
+        "Options": [
+          {
+            "optionName": "labore"
+          },
+          {
+            "optionName": "ut"
+          },
+          {
+            "optionName": "Lorem"
+          },
+          {
+            "optionName": "sunt"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 495,
+        "Price": 462,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 322,
+        "Price": 397,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "minim",
+    "Description": "Irure laboris enim cupidatat aliquip ut eu aliqua proident duis eu.",
+    "PriceRange": "147-380 ",
+    "VariantList": [
+      {
+        "VarietyName": "enim",
+        "Options": [
+          {
+            "optionName": "magna"
+          },
+          {
+            "optionName": "dolor"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 141,
+        "Price": 385,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "eiusmod",
+    "Description": "Anim aliqua aliquip ex esse sunt do aliqua magna sit consectetur nisi pariatur nisi cupidatat.",
+    "PriceRange": "112-464 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 458,
+        "Price": 48,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 126,
+        "Price": 425,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 205,
+        "Price": 56,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "deserunt",
+    "Description": "Non enim ex nisi eiusmod sint.",
+    "PriceRange": "142-443 ",
+    "VariantList": [
+      {
+        "VarietyName": "officia",
+        "Options": [
+          {
+            "optionName": "laboris"
+          }
+        ]
+      },
+      {
+        "VarietyName": "mollit",
+        "Options": [
+          {
+            "optionName": "quis"
+          },
+          {
+            "optionName": "magna"
+          },
+          {
+            "optionName": "nostrud"
+          },
+          {
+            "optionName": "cupidatat"
+          }
+        ]
+      }
+    ],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "occaecat",
+    "Description": "Ex veniam incididunt quis in exercitation minim cupidatat.",
+    "PriceRange": "138-175 ",
+    "VariantList": [
+      {
+        "VarietyName": "proident",
+        "Options": []
+      },
+      {
+        "VarietyName": "ad",
+        "Options": [
+          {
+            "optionName": "nulla"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 245,
+        "Price": 404,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 474,
+        "Price": 163,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "pariatur",
+    "Description": "Anim enim Lorem labore mollit laborum enim culpa ipsum esse id ea aliqua ad reprehenderit.",
+    "PriceRange": "131-478 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 372,
+        "Price": 25,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 45,
+        "Price": 216,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 318,
+        "Price": 112,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 137,
+        "Price": 325,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 355,
+        "Price": 115,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 215,
+        "Price": 369,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 343,
+        "Price": 175,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 134,
+        "Price": 96,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 499,
+        "Price": 371,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 472,
+        "Price": 396,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consectetur",
+    "Description": "Ipsum aliquip incididunt excepteur duis officia consectetur nulla eu esse pariatur exercitation occaecat laboris.",
+    "PriceRange": "122-299 ",
+    "VariantList": [
+      {
+        "VarietyName": "Lorem",
+        "Options": [
+          {
+            "optionName": "reprehenderit"
+          }
+        ]
+      },
+      {
+        "VarietyName": "consequat",
+        "Options": [
+          {
+            "optionName": "in"
+          },
+          {
+            "optionName": "minim"
+          }
+        ]
+      }
+    ],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "qui",
+    "Description": "Esse in enim laborum do proident Lorem duis mollit.",
+    "PriceRange": "109-321 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 395,
+        "Price": 191,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "laborum",
+    "Description": "Elit consectetur ipsum sint aliquip fugiat.",
+    "PriceRange": "106-333 ",
+    "VariantList": [
+      {
+        "VarietyName": "velit",
+        "Options": [
+          {
+            "optionName": "consequat"
+          },
+          {
+            "optionName": "adipisicing"
+          },
+          {
+            "optionName": "aute"
+          },
+          {
+            "optionName": "do"
+          }
+        ]
+      },
+      {
+        "VarietyName": "excepteur",
+        "Options": [
+          {
+            "optionName": "cillum"
+          },
+          {
+            "optionName": "sunt"
+          },
+          {
+            "optionName": "laboris"
+          }
+        ]
+      }
+    ],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "labore",
+    "Description": "Aute non ullamco deserunt proident qui laboris officia esse ullamco.",
+    "PriceRange": "104-493 ",
+    "VariantList": [
+      {
+        "VarietyName": "enim",
+        "Options": [
+          {
+            "optionName": "veniam"
+          },
+          {
+            "optionName": "nisi"
+          },
+          {
+            "optionName": "est"
+          },
+          {
+            "optionName": "sunt"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 346,
+        "Price": 144,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "in",
+    "Description": "Amet duis ea incididunt nisi excepteur nisi anim aute cillum sit minim.",
+    "PriceRange": "149-200 ",
+    "VariantList": [
+      {
+        "VarietyName": "velit",
+        "Options": [
+          {
+            "optionName": "minim"
+          },
+          {
+            "optionName": "ex"
+          },
+          {
+            "optionName": "officia"
+          }
+        ]
+      }
+    ],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "in",
+    "Description": "Excepteur quis elit esse nulla exercitation ipsum eiusmod exercitation duis ullamco sit adipisicing excepteur.",
+    "PriceRange": "134-378 ",
+    "VariantList": [
+      {
+        "VarietyName": "id",
+        "Options": []
+      },
+      {
+        "VarietyName": "et",
+        "Options": [
+          {
+            "optionName": "reprehenderit"
+          },
+          {
+            "optionName": "excepteur"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 149,
+        "Price": 271,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 58,
+        "Price": 89,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 207,
+        "Price": 194,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 144,
+        "Price": 333,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 251,
+        "Price": 139,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 492,
+        "Price": 114,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 349,
+        "Price": 172,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "dolor",
+    "Description": "Officia officia quis Lorem et exercitation sint amet quis adipisicing velit sunt.",
+    "PriceRange": "111-476 ",
+    "VariantList": [
+      {
+        "VarietyName": "do",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 167,
+        "Price": 115,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 43,
+        "Price": 170,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 77,
+        "Price": 495,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 16,
+        "Price": 362,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 121,
+        "Price": 165,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "voluptate",
+    "Description": "Dolor excepteur duis esse adipisicing commodo adipisicing.",
+    "PriceRange": "102-311 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 17,
+        "Price": 46,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "excepteur",
+    "Description": "Duis aliquip enim est id ut amet Lorem nostrud consequat ipsum laborum cillum sunt.",
+    "PriceRange": "119-291 ",
+    "VariantList": [
+      {
+        "VarietyName": "sit",
+        "Options": [
+          {
+            "optionName": "aliqua"
+          },
+          {
+            "optionName": "elit"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 488,
+        "Price": 436,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 236,
+        "Price": 205,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 189,
+        "Price": 248,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 187,
+        "Price": 326,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 316,
+        "Price": 187,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 352,
+        "Price": 463,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 18,
+        "Price": 13,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 270,
+        "Price": 440,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 410,
+        "Price": 180,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 331,
+        "Price": 423,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "sit",
+    "Description": "Irure est duis sunt occaecat sint do amet ut exercitation est pariatur non enim.",
+    "PriceRange": "118-494 ",
+    "VariantList": [
+      {
+        "VarietyName": "laboris",
+        "Options": [
+          {
+            "optionName": "labore"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 401,
+        "Price": 312,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 417,
+        "Price": 166,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 56,
+        "Price": 292,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 225,
+        "Price": 182,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 452,
+        "Price": 226,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 71,
+        "Price": 364,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 44,
+        "Price": 132,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 351,
+        "Price": 77,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "laboris",
+    "Description": "Ea proident fugiat dolor proident exercitation cupidatat eu irure.",
+    "PriceRange": "102-255 ",
+    "VariantList": [
+      {
+        "VarietyName": "proident",
+        "Options": [
+          {
+            "optionName": "est"
+          },
+          {
+            "optionName": "elit"
+          },
+          {
+            "optionName": "mollit"
+          }
+        ]
+      },
+      {
+        "VarietyName": "exercitation",
+        "Options": [
+          {
+            "optionName": "non"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 488,
+        "Price": 16,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 245,
+        "Price": 413,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ex",
+    "Description": "Sit ea duis mollit officia Lorem ut ullamco ex et.",
+    "PriceRange": "111-243 ",
+    "VariantList": [
+      {
+        "VarietyName": "ex",
+        "Options": []
+      },
+      {
+        "VarietyName": "excepteur",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 447,
+        "Price": 208,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 28,
+        "Price": 11,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "sunt",
+    "Description": "Elit cillum ut aliquip sint ipsum.",
+    "PriceRange": "111-258 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 287,
+        "Price": 274,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 149,
+        "Price": 442,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 241,
+        "Price": 148,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 486,
+        "Price": 405,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 132,
+        "Price": 476,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 364,
+        "Price": 63,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 275,
+        "Price": 42,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 454,
+        "Price": 274,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 174,
+        "Price": 110,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "nulla",
+    "Description": "Ex dolore excepteur incididunt do qui Lorem.",
+    "PriceRange": "145-332 ",
+    "VariantList": [
+      {
+        "VarietyName": "pariatur",
+        "Options": []
+      },
+      {
+        "VarietyName": "veniam",
+        "Options": [
+          {
+            "optionName": "consectetur"
+          },
+          {
+            "optionName": "fugiat"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 419,
+        "Price": 185,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 212,
+        "Price": 431,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 320,
+        "Price": 312,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 10,
+        "Price": 241,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 139,
+        "Price": 429,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 349,
+        "Price": 381,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 160,
+        "Price": 363,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 373,
+        "Price": 251,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 139,
+        "Price": 263,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 252,
+        "Price": 57,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "est",
+    "Description": "Quis sit velit do nostrud.",
+    "PriceRange": "124-209 ",
+    "VariantList": [
+      {
+        "VarietyName": "anim",
+        "Options": [
+          {
+            "optionName": "velit"
+          },
+          {
+            "optionName": "elit"
+          },
+          {
+            "optionName": "ad"
+          }
+        ]
+      },
+      {
+        "VarietyName": "pariatur",
+        "Options": [
+          {
+            "optionName": "officia"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 188,
+        "Price": 82,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "Consectetur aute id aute non irure minim esse amet et.",
+    "PriceRange": "116-241 ",
+    "VariantList": [
+      {
+        "VarietyName": "fugiat",
+        "Options": [
+          {
+            "optionName": "duis"
+          },
+          {
+            "optionName": "ut"
+          },
+          {
+            "optionName": "cillum"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 18,
+        "Price": 339,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 396,
+        "Price": 32,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 449,
+        "Price": 277,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 165,
+        "Price": 118,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 304,
+        "Price": 192,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 122,
+        "Price": 480,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 345,
+        "Price": 250,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "mollit",
+    "Description": "Esse minim minim voluptate culpa amet.",
+    "PriceRange": "144-229 ",
+    "VariantList": [
+      {
+        "VarietyName": "culpa",
+        "Options": [
+          {
+            "optionName": "quis"
+          },
+          {
+            "optionName": "et"
+          },
+          {
+            "optionName": "quis"
+          }
+        ]
+      },
+      {
+        "VarietyName": "minim",
+        "Options": [
+          {
+            "optionName": "ullamco"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 286,
+        "Price": 325,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 252,
+        "Price": 391,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 16,
+        "Price": 212,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 79,
+        "Price": 328,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 405,
+        "Price": 458,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 54,
+        "Price": 286,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 435,
+        "Price": 442,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 232,
+        "Price": 64,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 398,
+        "Price": 86,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 179,
+        "Price": 460,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "mollit",
+    "Description": "Adipisicing ea velit voluptate eiusmod sint minim ad eu laboris mollit do sint commodo.",
+    "PriceRange": "144-402 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 49,
+        "Price": 300,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 263,
+        "Price": 286,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 244,
+        "Price": 395,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "eu",
+    "Description": "Reprehenderit ad irure tempor aliqua anim cillum minim id cupidatat ea sint nisi culpa irure.",
+    "PriceRange": "113-303 ",
+    "VariantList": [
+      {
+        "VarietyName": "sit",
+        "Options": [
+          {
+            "optionName": "laborum"
+          },
+          {
+            "optionName": "culpa"
+          },
+          {
+            "optionName": "cupidatat"
+          }
+        ]
+      },
+      {
+        "VarietyName": "pariatur",
+        "Options": [
+          {
+            "optionName": "cupidatat"
+          },
+          {
+            "optionName": "aliqua"
+          },
+          {
+            "optionName": "amet"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 228,
+        "Price": 312,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 168,
+        "Price": 421,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 236,
+        "Price": 170,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 277,
+        "Price": 369,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "et",
+    "Description": "Nulla enim duis excepteur reprehenderit non id do velit commodo commodo pariatur.",
+    "PriceRange": "135-273 ",
+    "VariantList": [
+      {
+        "VarietyName": "occaecat",
+        "Options": [
+          {
+            "optionName": "in"
+          },
+          {
+            "optionName": "ullamco"
+          },
+          {
+            "optionName": "ea"
+          },
+          {
+            "optionName": "ad"
+          }
+        ]
+      },
+      {
+        "VarietyName": "excepteur",
+        "Options": [
+          {
+            "optionName": "officia"
+          },
+          {
+            "optionName": "duis"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 443,
+        "Price": 385,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 360,
+        "Price": 71,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 451,
+        "Price": 414,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 104,
+        "Price": 377,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 147,
+        "Price": 342,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 363,
+        "Price": 221,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 296,
+        "Price": 199,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 429,
+        "Price": 474,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "eiusmod",
+    "Description": "Fugiat ullamco sint adipisicing qui commodo sunt sint ut consequat ullamco ipsum.",
+    "PriceRange": "114-333 ",
+    "VariantList": [
+      {
+        "VarietyName": "cupidatat",
+        "Options": [
+          {
+            "optionName": "veniam"
+          },
+          {
+            "optionName": "cupidatat"
+          },
+          {
+            "optionName": "sunt"
+          },
+          {
+            "optionName": "id"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 30,
+        "Price": 245,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 215,
+        "Price": 387,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 238,
+        "Price": 488,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 61,
+        "Price": 268,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 250,
+        "Price": 16,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 334,
+        "Price": 428,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 141,
+        "Price": 71,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 380,
+        "Price": 405,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 215,
+        "Price": 430,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 347,
+        "Price": 452,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "Qui esse minim cupidatat dolor cillum pariatur proident ullamco aute dolore ea voluptate culpa est.",
+    "PriceRange": "123-469 ",
+    "VariantList": [
+      {
+        "VarietyName": "tempor",
+        "Options": [
+          {
+            "optionName": "consequat"
+          },
+          {
+            "optionName": "exercitation"
+          },
+          {
+            "optionName": "veniam"
+          },
+          {
+            "optionName": "Lorem"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 11,
+        "Price": 31,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 362,
+        "Price": 274,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 79,
+        "Price": 51,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 194,
+        "Price": 429,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "eiusmod",
+    "Description": "Magna dolor duis fugiat irure eiusmod exercitation fugiat exercitation minim ipsum aliquip ipsum nisi labore.",
+    "PriceRange": "135-223 ",
+    "VariantList": [
+      {
+        "VarietyName": "excepteur",
+        "Options": [
+          {
+            "optionName": "est"
+          },
+          {
+            "optionName": "eu"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 111,
+        "Price": 157,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 122,
+        "Price": 237,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 29,
+        "Price": 372,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 244,
+        "Price": 426,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 464,
+        "Price": 129,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "excepteur",
+    "Description": "Consequat eu dolore esse exercitation.",
+    "PriceRange": "102-332 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 89,
+        "Price": 241,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 267,
+        "Price": 57,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 422,
+        "Price": 300,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "magna",
+    "Description": "Cillum cillum et Lorem eu pariatur esse ipsum occaecat pariatur veniam id sit irure velit.",
+    "PriceRange": "130-291 ",
+    "VariantList": [
+      {
+        "VarietyName": "duis",
+        "Options": [
+          {
+            "optionName": "excepteur"
+          },
+          {
+            "optionName": "aliquip"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 288,
+        "Price": 488,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 274,
+        "Price": 431,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 319,
+        "Price": 245,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 232,
+        "Price": 16,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 38,
+        "Price": 421,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 25,
+        "Price": 260,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 497,
+        "Price": 110,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 255,
+        "Price": 133,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "veniam",
+    "Description": "Deserunt officia anim duis esse cupidatat culpa adipisicing dolore deserunt.",
+    "PriceRange": "116-195 ",
+    "VariantList": [
+      {
+        "VarietyName": "amet",
+        "Options": []
+      },
+      {
+        "VarietyName": "adipisicing",
+        "Options": [
+          {
+            "optionName": "nostrud"
+          },
+          {
+            "optionName": "cillum"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 234,
+        "Price": 360,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 277,
+        "Price": 302,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "pariatur",
+    "Description": "Officia cillum minim ea veniam Lorem proident duis reprehenderit elit aliqua laboris nostrud esse.",
+    "PriceRange": "118-367 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 451,
+        "Price": 216,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 469,
+        "Price": 394,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 112,
+        "Price": 236,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 275,
+        "Price": 164,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 245,
+        "Price": 269,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 284,
+        "Price": 287,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 229,
+        "Price": 402,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "anim",
+    "Description": "Reprehenderit et eu occaecat sit.",
+    "PriceRange": "109-484 ",
+    "VariantList": [
+      {
+        "VarietyName": "reprehenderit",
+        "Options": [
+          {
+            "optionName": "pariatur"
+          }
+        ]
+      },
+      {
+        "VarietyName": "incididunt",
+        "Options": [
+          {
+            "optionName": "non"
+          },
+          {
+            "optionName": "dolor"
+          },
+          {
+            "optionName": "laborum"
+          },
+          {
+            "optionName": "dolor"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 354,
+        "Price": 160,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 410,
+        "Price": 311,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 306,
+        "Price": 127,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 167,
+        "Price": 48,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 382,
+        "Price": 62,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "do",
+    "Description": "Pariatur eu et officia dolor quis cillum in dolor veniam ipsum deserunt cupidatat.",
+    "PriceRange": "100-365 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 274,
+        "Price": 75,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 284,
+        "Price": 277,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 113,
+        "Price": 40,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 359,
+        "Price": 117,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 486,
+        "Price": 386,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 417,
+        "Price": 259,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 475,
+        "Price": 465,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 374,
+        "Price": 46,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 275,
+        "Price": 70,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 455,
+        "Price": 392,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "laborum",
+    "Description": "Minim aliquip est dolore et.",
+    "PriceRange": "125-331 ",
+    "VariantList": [
+      {
+        "VarietyName": "velit",
+        "Options": [
+          {
+            "optionName": "velit"
+          },
+          {
+            "optionName": "aliqua"
+          }
+        ]
+      },
+      {
+        "VarietyName": "nostrud",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 329,
+        "Price": 202,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 13,
+        "Price": 143,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 160,
+        "Price": 99,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 312,
+        "Price": 442,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 290,
+        "Price": 188,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 149,
+        "Price": 173,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 130,
+        "Price": 240,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 192,
+        "Price": 40,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "excepteur",
+    "Description": "Ut nostrud tempor sunt et.",
+    "PriceRange": "143-229 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 330,
+        "Price": 29,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 158,
+        "Price": 333,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 131,
+        "Price": 38,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 40,
+        "Price": 140,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 143,
+        "Price": 322,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "irure",
+    "Description": "Ut magna reprehenderit sunt deserunt duis fugiat nostrud et in in id.",
+    "PriceRange": "117-391 ",
+    "VariantList": [],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "cupidatat",
+    "Description": "Do eu duis quis ullamco veniam occaecat.",
+    "PriceRange": "134-180 ",
+    "VariantList": [
+      {
+        "VarietyName": "ea",
+        "Options": []
+      },
+      {
+        "VarietyName": "cupidatat",
+        "Options": [
+          {
+            "optionName": "laborum"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 60,
+        "Price": 92,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 461,
+        "Price": 422,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "sint",
+    "Description": "Nulla enim ad consectetur consequat.",
+    "PriceRange": "128-403 ",
+    "VariantList": [
+      {
+        "VarietyName": "dolore",
+        "Options": [
+          {
+            "optionName": "aliqua"
+          }
+        ]
+      },
+      {
+        "VarietyName": "labore",
+        "Options": [
+          {
+            "optionName": "sunt"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 43,
+        "Price": 273,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 229,
+        "Price": 14,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 463,
+        "Price": 374,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 399,
+        "Price": 206,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 281,
+        "Price": 478,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 189,
+        "Price": 408,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 134,
+        "Price": 51,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 258,
+        "Price": 489,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "dolore",
+    "Description": "Labore et do consectetur reprehenderit esse cupidatat non proident.",
+    "PriceRange": "142-309 ",
+    "VariantList": [
+      {
+        "VarietyName": "velit",
+        "Options": [
+          {
+            "optionName": "occaecat"
+          },
+          {
+            "optionName": "esse"
+          },
+          {
+            "optionName": "pariatur"
+          }
+        ]
+      }
+    ],
+    "StockList": [],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "enim",
+    "Description": "Ullamco quis commodo irure et enim fugiat pariatur eiusmod tempor incididunt.",
+    "PriceRange": "110-265 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 385,
+        "Price": 343,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 139,
+        "Price": 498,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 241,
+        "Price": 201,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 445,
+        "Price": 234,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 252,
+        "Price": 145,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 403,
+        "Price": 104,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 14,
+        "Price": 44,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 238,
+        "Price": 93,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 283,
+        "Price": 72,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 44,
+        "Price": 464,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "minim",
+    "Description": "Nostrud sit est incididunt ea cupidatat incididunt ad quis consectetur dolor velit reprehenderit aliquip.",
+    "PriceRange": "126-341 ",
+    "VariantList": [
+      {
+        "VarietyName": "tempor",
+        "Options": [
+          {
+            "optionName": "ad"
+          },
+          {
+            "optionName": "dolore"
+          },
+          {
+            "optionName": "irure"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 151,
+        "Price": 382,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 62,
+        "Price": 99,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 365,
+        "Price": 219,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 492,
+        "Price": 68,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 332,
+        "Price": 33,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 430,
+        "Price": 390,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 236,
+        "Price": 153,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 239,
+        "Price": 495,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "nostrud",
+    "Description": "Consequat commodo aliquip cupidatat laboris adipisicing Lorem occaecat fugiat ipsum laboris ullamco.",
+    "PriceRange": "140-192 ",
+    "VariantList": [
+      {
+        "VarietyName": "labore",
+        "Options": [
+          {
+            "optionName": "et"
+          },
+          {
+            "optionName": "aliqua"
+          }
+        ]
+      },
+      {
+        "VarietyName": "minim",
+        "Options": [
+          {
+            "optionName": "irure"
+          },
+          {
+            "optionName": "non"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 361,
+        "Price": 311,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 111,
+        "Price": 169,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 196,
+        "Price": 127,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 143,
+        "Price": 111,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 461,
+        "Price": 465,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 317,
+        "Price": 274,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 500,
+        "Price": 163,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "cillum",
+    "Description": "Anim occaecat enim sint mollit ex ex nulla ipsum officia ut sit ea mollit nostrud.",
+    "PriceRange": "103-374 ",
+    "VariantList": [
+      {
+        "VarietyName": "ut",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 149,
+        "Price": 494,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 239,
+        "Price": 354,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 76,
+        "Price": 235,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 211,
+        "Price": 319,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "Lorem sunt velit consequat fugiat duis incididunt veniam elit velit in nulla esse in.",
+    "PriceRange": "138-256 ",
+    "VariantList": [
+      {
+        "VarietyName": "cillum",
+        "Options": [
+          {
+            "optionName": "magna"
+          }
+        ]
+      },
+      {
+        "VarietyName": "dolore",
+        "Options": [
+          {
+            "optionName": "nulla"
+          },
+          {
+            "optionName": "esse"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 35,
+        "Price": 333,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 201,
+        "Price": 458,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 483,
+        "Price": 432,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 55,
+        "Price": 267,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 63,
+        "Price": 68,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 145,
+        "Price": 319,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 479,
+        "Price": 308,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 474,
+        "Price": 188,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ad",
+    "Description": "Mollit elit voluptate dolore occaecat sit cupidatat ullamco nulla.",
+    "PriceRange": "101-310 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 56,
+        "Price": 136,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 91,
+        "Price": 71,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 402,
+        "Price": 253,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 168,
+        "Price": 365,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "nulla",
+    "Description": "Anim enim fugiat id consequat eu velit adipisicing culpa nostrud ut veniam enim excepteur voluptate.",
+    "PriceRange": "121-383 ",
+    "VariantList": [
+      {
+        "VarietyName": "dolore",
+        "Options": [
+          {
+            "optionName": "laboris"
+          },
+          {
+            "optionName": "anim"
+          },
+          {
+            "optionName": "mollit"
+          }
+        ]
+      },
+      {
+        "VarietyName": "cillum",
+        "Options": [
+          {
+            "optionName": "cillum"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 184,
+        "Price": 55,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 271,
+        "Price": 52,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 325,
+        "Price": 282,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 257,
+        "Price": 237,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 249,
+        "Price": 118,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 40,
+        "Price": 68,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "minim",
+    "Description": "Veniam exercitation voluptate deserunt aliquip.",
+    "PriceRange": "141-352 ",
+    "VariantList": [
+      {
+        "VarietyName": "duis",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 183,
+        "Price": 269,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 455,
+        "Price": 104,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 237,
+        "Price": 107,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 261,
+        "Price": 336,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 418,
+        "Price": 112,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 353,
+        "Price": 420,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 456,
+        "Price": 56,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 237,
+        "Price": 145,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "Nostrud in cillum eiusmod Lorem.",
+    "PriceRange": "150-222 ",
+    "VariantList": [
+      {
+        "VarietyName": "dolore",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 107,
+        "Price": 372,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 47,
+        "Price": 421,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 237,
+        "Price": 261,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "cupidatat",
+    "Description": "Elit tempor nisi tempor qui proident esse minim proident fugiat sint eu eu pariatur adipisicing.",
+    "PriceRange": "150-217 ",
+    "VariantList": [
+      {
+        "VarietyName": "ad",
+        "Options": [
+          {
+            "optionName": "ut"
+          },
+          {
+            "optionName": "veniam"
+          },
+          {
+            "optionName": "sunt"
+          }
+        ]
+      },
+      {
+        "VarietyName": "in",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 425,
+        "Price": 17,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 158,
+        "Price": 496,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 59,
+        "Price": 15,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "Laboris veniam qui excepteur in tempor cillum voluptate cupidatat laborum irure enim laboris.",
+    "PriceRange": "131-481 ",
+    "VariantList": [
+      {
+        "VarietyName": "pariatur",
+        "Options": [
+          {
+            "optionName": "cillum"
+          },
+          {
+            "optionName": "labore"
+          },
+          {
+            "optionName": "ex"
+          },
+          {
+            "optionName": "adipisicing"
+          }
+        ]
+      },
+      {
+        "VarietyName": "ad",
+        "Options": [
+          {
+            "optionName": "nostrud"
+          },
+          {
+            "optionName": "excepteur"
+          },
+          {
+            "optionName": "culpa"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 488,
+        "Price": 412,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 176,
+        "Price": 162,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 414,
+        "Price": 484,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 355,
+        "Price": 309,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 212,
+        "Price": 473,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 160,
+        "Price": 362,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 454,
+        "Price": 122,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 198,
+        "Price": 80,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 385,
+        "Price": 258,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "in",
+    "Description": "Do dolor incididunt magna proident.",
+    "PriceRange": "117-461 ",
+    "VariantList": [
+      {
+        "VarietyName": "adipisicing",
+        "Options": []
+      },
+      {
+        "VarietyName": "ullamco",
+        "Options": [
+          {
+            "optionName": "nulla"
+          },
+          {
+            "optionName": "anim"
+          },
+          {
+            "optionName": "adipisicing"
+          },
+          {
+            "optionName": "quis"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 362,
+        "Price": 138,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 160,
+        "Price": 475,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 373,
+        "Price": 96,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 125,
+        "Price": 470,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "irure",
+    "Description": "Ex mollit fugiat eiusmod ut commodo sint sint pariatur id officia incididunt.",
+    "PriceRange": "133-429 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 79,
+        "Price": 208,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 172,
+        "Price": 460,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 323,
+        "Price": 333,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ex",
+    "Description": "Laboris esse deserunt consectetur duis nostrud.",
+    "PriceRange": "148-349 ",
+    "VariantList": [
+      {
+        "VarietyName": "ipsum",
+        "Options": [
+          {
+            "optionName": "amet"
+          }
+        ]
+      },
+      {
+        "VarietyName": "nulla",
+        "Options": [
+          {
+            "optionName": "in"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 373,
+        "Price": 417,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 426,
+        "Price": 172,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 398,
+        "Price": 195,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 468,
+        "Price": 189,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 356,
+        "Price": 53,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "ipsum",
+    "Description": "Laboris ex sint cupidatat ex labore velit sit.",
+    "PriceRange": "109-221 ",
+    "VariantList": [
+      {
+        "VarietyName": "ipsum",
+        "Options": []
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 401,
+        "Price": 248,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 494,
+        "Price": 318,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 202,
+        "Price": 316,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 260,
+        "Price": 367,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "tempor",
+    "Description": "Lorem aute cillum est cupidatat voluptate excepteur sint mollit do.",
+    "PriceRange": "123-399 ",
+    "VariantList": [
+      {
+        "VarietyName": "reprehenderit",
+        "Options": [
+          {
+            "optionName": "nostrud"
+          },
+          {
+            "optionName": "in"
+          }
+        ]
+      },
+      {
+        "VarietyName": "consequat",
+        "Options": [
+          {
+            "optionName": "voluptate"
+          },
+          {
+            "optionName": "labore"
+          },
+          {
+            "optionName": "proident"
+          },
+          {
+            "optionName": "pariatur"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 308,
+        "Price": 335,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 254,
+        "Price": 258,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 187,
+        "Price": 360,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 440,
+        "Price": 250,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 373,
+        "Price": 324,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 360,
+        "Price": 110,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "quis",
+    "Description": "Laborum commodo tempor nostrud quis non fugiat quis.",
+    "PriceRange": "125-237 ",
+    "VariantList": [
+      {
+        "VarietyName": "incididunt",
+        "Options": [
+          {
+            "optionName": "officia"
+          },
+          {
+            "optionName": "officia"
+          },
+          {
+            "optionName": "nulla"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 339,
+        "Price": 206,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 217,
+        "Price": 16,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 213,
+        "Price": 215,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 208,
+        "Price": 124,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 87,
+        "Price": 273,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "sit",
+    "Description": "Cupidatat adipisicing ullamco anim consectetur eiusmod.",
+    "PriceRange": "144-374 ",
+    "VariantList": [
+      {
+        "VarietyName": "incididunt",
+        "Options": [
+          {
+            "optionName": "nulla"
+          }
+        ]
+      }
+    ],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 382,
+        "Price": 418,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 116,
+        "Price": 172,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 481,
+        "Price": 10,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 73,
+        "Price": 256,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 305,
+        "Price": 128,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 241,
+        "Price": 17,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 321,
+        "Price": 118,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 224,
+        "Price": 55,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  },
+  {
+    "ItemName": "consequat",
+    "Description": "In tempor dolor sit dolore duis veniam ea laboris exercitation ut fugiat culpa.",
+    "PriceRange": "121-373 ",
+    "VariantList": [],
+    "StockList": [
+      {
+        "StoreFid": 30,
+        "Quantity": 406,
+        "Price": 93,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 500,
+        "Price": 438,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 485,
+        "Price": 12,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 393,
+        "Price": 391,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 155,
+        "Price": 176,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 105,
+        "Price": 182,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 40,
+        "Price": 41,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      },
+      {
+        "StoreFid": 30,
+        "Quantity": 120,
+        "Price": 482,
+        "ItemCode": "dds",
+        "StockIndex": 1
+      }
+    ],
+    "CatFId": 1
+  }
+]

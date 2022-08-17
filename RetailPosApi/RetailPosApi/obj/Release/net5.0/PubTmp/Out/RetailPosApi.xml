@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RetailPosApi</name>
+    </assembly>
+    <members>
+        <member name="M:RetailPosApi.Controllers.AuthController.Register(RetailPosApi.Dtos.AuthDto.UserRegisterDto)">
+            <summary>
+            Register User
+            </summary>
+            <param name="request"></param>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.Login(RetailPosApi.Model.AuthModel.AuthenticateRequest)">
+            <summary>
+            Login User And Create a JWT token 
+            </summary>
+            <param name="authenticateRequest"></param>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.Get">
+            <summary>
+            Return a all User 
+            </summary>
+            <returns>Code 200 and Code 404</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.GetId(System.Int32)">
+            <summary>
+            Return a User for a Given Account ID
+            </summary>
+            <param name="id"></param>
+            <returns>Code 200 and Code 404</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.Delete(System.Int32)">
+            <summary>
+            Delete User for A Given Account ID
+            </summary>
+            <param name="id"></param>
+            <returns>Code 204, Code 404</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.UpdateAccount(System.Int32,RetailPosApi.Dtos.V1.AuthDtos.UserUpdateDto)">
+            <summary>
+            Update User for A Given Account ID
+            </summary>
+            <param name="id"></param>
+            <param name="userUpdateDto"></param>
+            <returns>Code 204, Code 404</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.IsUserExist(System.String)">
+            <summary>
+            Remote Model Validation Check if Username Exist
+            </summary>
+            <param name="userName"></param>
+            <returns>Boolean</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.IsRoleExist(System.String)">
+            <summary>
+            Remote Model Validation Check if User's Role
+            </summary>
+            <param name="role"></param>
+            <returns>Boolean</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.AuthController.SetTokenCookie(System.String)">
+            <summary>
+            Creating Token Cookie
+            </summary>
+            <param name="token"></param>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.GetCategories">
+            <summary>
+            Return all Categories
+            </summary>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.GetCategoriesID(System.Int32)">
+            <summary>
+            Return Category By given Id Return Not Found if id not exist
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.CreateCategories(RetailPosApi.Dtos.CategoryDto.CategoryCreateDto)">
+            <summary>
+            Create Category
+            </summary>
+            <param name="categoryCreateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.UpdateItem(System.Int32,RetailPosApi.Dtos.CategoryDto.CategoryUpdateDto)">
+            <summary>
+            Update Category Name By Given ID
+            </summary>
+            <param name="id"></param>
+            <param name="categoryUpdateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.PartialItemUpdate(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{RetailPosApi.Dtos.CategoryDto.CategoryUpdateDto})">
+            <summary>
+            PATH Category By Given Id return Not Found if Id not exist
+            </summary>
+            <param name="id"></param>
+            <param name="patchDoc"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.CategoryController.DeleteItem(System.Int32)">
+            <summary>
+            Delete Category By Given Id return Not Found if not Exist
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.DamageReportController.AddDamageReport(RetailPosApi.Dtos.DamageReportDtos.CreateDamageReportDto)">
+            <summary>
+            Report Damage Item
+            </summary>
+            <param name="damageReportDto"></param>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.DamageReportController.GetAllDamageReport(RetailPosApi.Model.V1.Parameter.FilterParameter)">
+            <summary>
+            Get All Damage Report 
+            </summary>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.DamageReportController.GetDamageReport(System.Int32)">
+            <summary>
+            Get Damage Item By Given ID Return Not Found if ID not exist
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.DamageReportController.DeleteItem(System.Int32)">
+            <summary>
+            Delete Damage Item By Given ID return Not Found if Id not Exist
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ExpensesController.GetAllExpenses(RetailPosApi.Model.V1.Parameter.FilterParameter)">
+            <summary>
+            Get All Damage Report 
+            </summary>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ExpensesController.AddExpenses(RetailPosApi.Dtos.ExpensesDtos.CreateExpensesDto)">
+            <summary>
+            Report Damage Item
+            </summary>
+            <param name="expenses"></param>
+            <returns>Code 200</returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ExpensesController.DeleteExpenses(System.Int32)">
+            <summary>
+            Delete Damage Item By Given ID return Not Found if Id not Exist
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.GetAllItem(RetailPosApi.Model.ItemParameter)">
+            <summary>
+            Get All Item
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.GetItem(System.Int32)">
+            <summary>
+            Get Item By A Given ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.GetItemUser(System.Int32,System.Int32)">
+            <summary>
+            GET item for store owners
+            </summary>
+            <param name="id"></param>
+            <param name="storeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.CreateItem(RetailPosApi.Model.FileUpload)">
+            <summary>
+            Create Item
+            </summary>
+            <param name="fileObj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.UpdateItem(System.Int32,RetailPosApi.Dtos.ItemDtos.ItemUpdateDto)">
+            <summary>
+            Update Item By Given Id
+            </summary>
+            <param name="id"></param>
+            <param name="itemUpdateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.PartialItemUpdate(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{RetailPosApi.Dtos.ItemDtos.ItemUpdateDto})">
+            <summary>
+            Patch Item By Given Id
+            </summary>
+            <param name="id"></param>
+            <param name="patchDoc"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.DeleteItemAsync(System.Int32)">
+            <summary>
+            Delete Item By Given Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.ItemController.IsItemExist(System.String)">
+            <summary>
+            Check if Item Name is Exist
+            </summary>
+            <param name="ProductName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.SaleItemController.GetAllSales(RetailPosApi.Model.V1.Parameter.FilterParameter)">
+            <summary>
+            Get All Sale
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.SaleItemController.GetSale(System.Int32)">
+            <summary>
+            Get Sale By Given Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.SaleItemController.CreateSale(System.Collections.Generic.List{RetailPosApi.Dtos.SaleDto.SaleCreateDto})">
+            <summary>
+            Create Sale
+            </summary>
+            <param name="sale"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.SaleItemController.DeleteItem(System.Int32)">
+            <summary>
+            Delete Sale By Given Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.GetAllStores">
+            <summary>
+            Get All Store
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.GetStore(System.Int32)">
+            <summary>
+            Get Store By Given Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.CreateStore(RetailPosApi.Dtos.StoreDto.StoreCreateDto)">
+            <summary>
+            Create Store
+            </summary>
+            <param name="storeCreateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.UpdateStore(System.Int32,RetailPosApi.Dtos.StoreDto.StoreUpdateDto)">
+            <summary>
+            Put Store By Given Id
+            </summary>
+            <param name="id"></param>
+            <param name="storeUpdateto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.PartialStoreUpdate(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{RetailPosApi.Dtos.StoreDto.StoreUpdateDto})">
+            <summary>
+            Patch Store By Given Id
+            </summary>
+            <param name="id"></param>
+            <param name="patchDoc"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetailPosApi.Controllers.StoreController.DeleteStore(System.Int32)">
+            <summary>
+            Delet Store By Given Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
