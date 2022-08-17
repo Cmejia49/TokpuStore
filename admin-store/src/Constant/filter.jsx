@@ -1,0 +1,1 @@
+export const option=['ThisWeek','LastWeek','ThisMonth','LastMonth','ThisYear','LastYear'];

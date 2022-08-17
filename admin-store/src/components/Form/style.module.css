@@ -1,0 +1,34 @@
+.label{
+    display: inline-block;
+    background-color: indigo;
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+
+  }
+
+  .img{
+      width: 150px;
+      height: 150px;
+      object-fit:contain;
+  }
+
+  .btn{
+    padding: 0;
+    width: 130px !important;
+  }
+
+  .customCloseBtn{
+    width:8px !important;
+    height:8px !important;
+    margin: 5px !important;
+  }
+
+  .customCloseBtn:disabled{
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #ffffff;
+  }

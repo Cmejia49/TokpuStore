@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "TokpuStorePos",
+    "slug": "TokpuStorePos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pos.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/pos.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.TokpuStore.TokpuStorePos",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pos.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pos.png"
+    }
+  }
+}

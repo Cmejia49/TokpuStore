@@ -1,0 +1,15 @@
+.customCatBar{
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    border-width: 5px !important;
+    box-shadow: 0px 4px 4px 3px rgba(0, 0, 0, 0.25);
+    color:#000;
+
+}
+
+
+.customNav{
+    max-height: 45px !important;
+    border-width: 0px !important;
+}

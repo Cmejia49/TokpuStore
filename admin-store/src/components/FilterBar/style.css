@@ -1,0 +1,45 @@
+.dropdown-toggle {
+    background-color: transparent;
+  border-color: #000;
+  color: #000;
+}
+
+.dropdown-menu:focus{
+  background-color: rgb(255, 255, 255);
+}
+
+.dropdown-menu>li>a{
+  color: rgb(24, 7, 7);
+  background-color: #fff !important;
+}
+
+a:focus{
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.dropdown-toggle:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.dropdown-toggle:focus{
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.dropdown-toggle:active{
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+/* Custom default button */
+
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none;
+  /* Prevent inheritence from `body` */
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+
