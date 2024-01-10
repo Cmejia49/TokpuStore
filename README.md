@@ -1,5 +1,5 @@
 
-# Tokpus Store
+# Tokpus Store - not active
 
 A Full Stack Project for a local store in my home town 
 
